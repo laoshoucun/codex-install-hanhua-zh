@@ -11,7 +11,7 @@ Codex 是 OpenAI 推出的 AI 编程智能体，有三种形态：装在电脑�
 
 ## 视频演示
 
-[![安装演示（8 分钟 · 从下载到界面变中文）](https://cdn.laoshoucun.com/web/codex/2026/11/20261123150558_718756.jpg)](https://www.sz003.com/anzhuang)
+[![安装演示（8 分钟 · 从下载到界面变中文）](https://cdn.laoshoucun.com/web/codex/2026/11/codex_install_hanhua_20261116_poster.jpg)](https://www.sz003.com/anzhuang)
 
 点上面这张封面图，会打开官网页面，视频就在页面里直接播，不用下载。
 
